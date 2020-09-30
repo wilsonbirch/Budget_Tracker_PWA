@@ -5,8 +5,7 @@ const FILES_TO_CACHE = [
   './icons/icon-192x192.png',
   './icons/icon-512x512.png',
   './index.js',
-  './styles.css',
-  './manifest.webmanifest'
+  './styles.css'
 ];
 
 const CACHE_NAME = 'budget-cache';
