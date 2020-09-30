@@ -8,7 +8,7 @@
     "start": "node server.js",
     "lite-server": "lite-server",
     "build": "webpack ==watch",
-    "webpack" : "webpack",
+    "webpack": "webpack",
     "dev": "npm run webpack -- --mode development --watch"
   },
   "repository": {
@@ -27,7 +27,8 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
-    "mongojs": "^2.6.0"
+    "mongojs": "^2.6.0",
+    "webpack-pwa-manifest": "4.2.0"
   },
   "devDependencies": {
     "webpack": "^4.31.0",
